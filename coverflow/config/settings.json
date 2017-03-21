@@ -1,0 +1,62 @@
+{
+  "Global": {
+    "path": "coverflow/",
+    "coverflowWidth": "1200",
+    "coverflowHeight": "450",
+    "backgroundColor": "",
+    "imageWidth": "200",
+    "imageHeight": "356",
+    "imageSpacing": "70",
+    "frontImageSpacing": "140",
+    "imageRotation": "30",
+    "imagePerspective": "900",
+    "frontImageScaleRatio": "110",
+    "bindMouseWheel": false,
+    "bindArrowKeys": false,
+    "mouseCursor": "grab",
+    "transitionDuration": "500",
+    "transitionFunction": "ease"
+  },
+  "Reflection": {
+    "reflection": true,
+    "reflectionColor": "#ffffff",
+    "reflectionSize": "30",
+    "reflectionSpread": "10",
+    "reflectionOpacity": "10"
+  },
+  "Scrollbar": {
+    "scrollbar": false,
+    "scrollbarWidth": "770",
+    "scrollbarHeight": "20",
+    "thumbWidth": "auto",
+    "scrollBackColor": "rgba(100, 100, 100, 0.3)",
+    "thumbColor": "#f2f2f2",
+    "borderRadius": "10",
+    "arrows": false,
+    "marginTop": "330"
+  },
+  "Shadow": {
+    "imageShadows": true,
+    "shadowSize": "10",
+    "shadowOpacity": "50"
+  },
+  "Controller": {
+    "controller": false,
+    "arrows": true,
+    "autoPlay": false,
+    "pauseDelay": "3000",
+    "controllerSkin": "light",
+    "controllerMarginTop": "380",
+    "preloaderMarginTop": "1",
+    "preloaderMarginLeft": "62"
+  },
+  "Text": {
+    "fontFamily": "Lucida Sans Unicode",
+    "fontSize": "18",
+    "fontColor": "#ffffff",
+    "fontBackColor": "rgba(0, 0, 0, 0.3)",
+    "fontPosition": "bottom",
+    "fontMarginTop": "100",
+    "fontWidth": "auto"
+  }
+}

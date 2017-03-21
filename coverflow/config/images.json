@@ -1,0 +1,19 @@
+{
+  "Images": [
+    {
+      "imageURL": "img/Courses.png",
+      "target": "none",
+      "text": ""
+    },
+    {
+      "imageURL": "img/Menu Bar.png",
+      "target": "none",
+      "text": ""
+    },
+    {
+      "imageURL": "img/Chatroom.png",
+      "target": "none",
+      "text": ""
+    }
+  ]
+}
